@@ -16,7 +16,7 @@ If a specific site is selected, the chart shows success vs. failure for that sit
 
 If “All Sites” is selected, it presents total successful launches per site.
 
-#Payload Mass Range Slider:
+# Payload Mass Range Slider:
 
 Allows interactive filtering of launches based on payload mass (kg).
 
@@ -30,5 +30,5 @@ Color-coded by booster version category.
 
 Provides insight into how booster versions and payload mass affect mission outcomes.
 
-#Purpose:
+# Purpose:
 The dashboard is designed to support data-driven decision-making for stakeholders, researchers, and enthusiasts by making SpaceX launch performance data accessible and visually intuitive.
